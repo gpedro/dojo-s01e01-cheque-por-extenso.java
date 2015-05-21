@@ -42,7 +42,7 @@ public class Cheque {
             put(600, "seicentos");
             put(700, "setecentos");
             put(800, "oitocentos");
-            put(900, "novecento");
+            put(900, "novecentos");
         }
     };
 
